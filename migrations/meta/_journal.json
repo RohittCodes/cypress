@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703825964727,
+      "tag": "0000_high_hellfire_club",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703827766242,
+      "tag": "0001_amusing_hellfire_club",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703840898317,
+      "tag": "0002_equal_medusa",
+      "breakpoints": true
+    }
+  ]
+}
